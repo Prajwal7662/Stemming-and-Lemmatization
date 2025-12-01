@@ -1,4 +1,4 @@
-Stemming and Lemmatization in NLP
+📘Stemming and Lemmatization in NLP
 
 This repository contains a Jupyter Notebook demonstrating Stemming and Lemmatization, two essential text normalization techniques used in Natural Language Processing (NLP). These preprocessing steps help reduce words to their root form, enabling better performance in tasks like text classification, clustering, sentiment analysis, and information retrieval.
 
