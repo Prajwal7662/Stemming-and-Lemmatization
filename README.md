@@ -80,8 +80,10 @@ Practical usage of NLTK preprocessing tools
 How to clean and prepare text for ML models
 
 📝 Example Output
-Word	Stem (Porter)	Lemma
-studies	studi	study
-better	better	good
-running	run	run
-caring	care	care
+| Word    | Stem (Porter) | Lemma |
+| ------- | ------------- | ----- |
+| studies | studi         | study |
+| better  | better        | good  |
+| running | run           | run   |
+| caring  | care          | care  |
+
